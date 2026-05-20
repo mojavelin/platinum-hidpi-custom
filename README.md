@@ -1,2 +1,12 @@
-# platinum-hidpi-custom
-Small HIDPI tweaks and focused window color changes for the Platinum XFCE/GTK theme.
+# Platinum HIDPI Custom
+
+Small personal tweaks for the Platinum XFCE theme.
+
+Changes:
+- thicker borders for HIDPI
+- modified focused window colors
+
+Credits to the original Platinum theme authors.
+
+Install:
+Copy the folder into ~/.themes
